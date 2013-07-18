@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.Know_Your_City"
+        versionCode="10" 
+        version   = "1.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Know_Your_City</name>
+
+    <description>
+        An android app which provides information of approved hotel and tour guide.
+    </description>
+
+    <author href="https://build.phonegap.com" email="support@phonegap.com">
+        Team KRYPTONITES-IIC 
+    </author>
+
+</widget>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.airquality"
+        versionCode="10" 
+        version   = "1.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>air_quality_index</name>
+
+    <description>
+        An android app which provides information about the air quality index of major cities of India.
+    </description>
+
+    <author href="https://build.phonegap.com" email="support@phonegap.com">
+        Team TRAVELLING MINDS-IIC 
+    </author>
+
+</widget>
+
